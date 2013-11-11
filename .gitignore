@@ -1,2 +1,8 @@
 .settings
 examples/zprime/analysis
+*.py[cod]
+*.txt
+*/htmlout/*
+*/analysis/*
+*.db
+*.root
